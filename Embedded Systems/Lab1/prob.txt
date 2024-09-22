@@ -1,0 +1,7 @@
+1.
+a) Design and simulate Half Adder using NAND and NOR gates only.
+b) Design and simulate a Full adder by using a decoder (3 to 8) and NAND gates. The adder inputs are A,B,C. The adder produces S and Co.
+c) Design a Full subtractor by using decoder(3 to 8) and NAND gates.The adder inputs are A,B,C. The subtractor produces D and Bo.
+
+Provide the code, gate circuit, and timing diagram for all these.
+

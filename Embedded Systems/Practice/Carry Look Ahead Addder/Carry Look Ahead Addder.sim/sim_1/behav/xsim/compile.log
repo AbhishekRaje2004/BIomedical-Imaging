@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/abhishek/Documents/workspace/Sem-4/Embedded Systems/Practice/Carry Look Ahead Addder/Carry Look Ahead Addder.srcs/sources_1/new/main.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module main
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/abhishek/Documents/workspace/Sem-4/Embedded Systems/Practice/Carry Look Ahead Addder/Carry Look Ahead Addder.srcs/sim_1/new/stim.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module stim

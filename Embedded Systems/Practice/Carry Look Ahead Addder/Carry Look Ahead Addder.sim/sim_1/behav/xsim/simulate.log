@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+Time =                    0, X = 0001, Y = 0010, C_in = 0, Sum = 00011, C_o = 0, Addition = 000011
+Time =               100000, X = 0101, Y = 0011, C_in = 1, Sum = 01001, C_o = 0, Addition = 001001
+Time =               200000, X = 1111, Y = 1111, C_in = 0, Sum = 11110, C_o = 1, Addition = 111110
+Time =               300000, X = 1010, Y = 0101, C_in = 1, Sum = 10000, C_o = 1, Addition = 110000
+$finish called at time : 400 ns : File "/home/abhishek/Documents/workspace/Sem-4/Embedded Systems/Practice/Carry Look Ahead Addder/Carry Look Ahead Addder.srcs/sim_1/new/stim.v" Line 54
